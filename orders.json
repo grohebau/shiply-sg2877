@@ -1,0 +1,47 @@
+{
+  "G28716": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Ulf Zimmermann, Doktorberg 30, 83471 Berchtesgaden, Deutschland",
+    "receiver": "Alan Rigney, Kilbeg, Horseleap, N37 E9R9 Co. Westmeath, Irland",
+    "price": "2.500 €",
+    "description": "Hersteller: KTM<br>Typ: 250 EXC-F Six Days<br>Fahrgestelnummer: VBKEXA401FM127406<br>Erstzulassung: 05/2015<br>KM laut Vorbesitzer: 2.097 km (78 Betriebsstunden)<br>Leistung: 13 kW (18 PS)<br>Hubraum: 250 cm³<br>Farbe: Weiß<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Alan Rigney, Kilbeg, Horseleap, N37 E9R9 Co. Westmeath, Irland<br>Telefon: +353 879374445",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "27-08-2025",
+    "deliveryDate": "02-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Kilbeg, Horseleap",
+      "postal_code": "N37 E9R9",
+      "city": "Co. Westmeath",
+      "country": "Irland",
+      "lat": "53.391910793472704",
+      "lng": "-7.579932748063854"
+    }
+  }
+}
