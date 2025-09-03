@@ -28,12 +28,12 @@
     "orderDate": "27-08-2025",
     "deliveryDate": "03-09-2025, 15:30 Uhr",
     "pickup": {
-      "street": "Auf A8",
+      "street": "",
       "postal_code": "",
-      "city": "",
+      "city": "Birmingham",
       "country": "",
-      "lat": "49.13427640231565",
-      "lng": "6.276547617255133"
+      "lat": "52.5638847455566",
+      "lng": "-1.7544425325990627"
     },
     "delivery": {
       "street": "Kilbeg, Horseleap",
