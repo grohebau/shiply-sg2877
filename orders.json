@@ -26,14 +26,14 @@
       }
     ],
     "orderDate": "27-08-2025",
-    "deliveryDate": "03-09-2025, 15:30 Uhr",
+    "deliveryDate": "05-09-2025, 11:00 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
-      "city": "Birmingham",
-      "country": "",
-      "lat": "52.5638847455566",
-      "lng": "-1.7544425325990627"
+      "city": "Dublin",
+      "country": "Irland",
+      "lat": "53.35528419592554",
+      "lng": "-6.2272437388677776"
     },
     "delivery": {
       "street": "Kilbeg, Horseleap",
